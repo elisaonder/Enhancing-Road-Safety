@@ -1,2 +1,3 @@
 # Enhancing-Road-Safety
 Enhancing Road Safety: A Comprehensive Approach to Detecting and Preventing Fatigue and Distraction-Related Driving Incidents
+This project aims to raise awareness and emphasize the need for such monitoring systems with the end goal of lowering the number of driving accidents due to sleepy and inattentive drivers. Many of these accidents can be eliminated by alerting the drivers once they start feeling drowsy or when a distraction is detected. This project introduces a non-intrusive mechanism for real-time detection of driver drowsiness by leveraging visual characteristics. These features are extracted from videos. The proposed system uses facial landmarks to locate the regions of interest: mouth aspect ratio, eye aspect ratio, and head position.
